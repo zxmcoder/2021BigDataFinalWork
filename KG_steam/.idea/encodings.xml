@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neo_db/create_graph.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neo_db/query_graph.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other/games_info.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/raw_data/raw_data_code/clear.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/raw_data/raw_data_code/get_relation.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/data.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/fonts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/images" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templates/KGQA.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templates/all_relation.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templates/search.html" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
